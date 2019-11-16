@@ -17,8 +17,6 @@ Hard way: add the repository to visual studio code and compile the application f
 
 ## Screenshots → Hard mode
 
-<div style="text-align:center">
-  <img src='assets/screenshot/ChoiseCorrect.png' alt='Main screen' width=300 >
-  <img src='assets/screenshot/ChoiseNotCorrect.png' alt='Main screen' width=300 >
-  <img src='assets/screenshot/EndGame.png' alt='End game' width=300 >
-</div>
+<img src='assets/screenshot/ChoiseCorrect.png' alt='Main screen' width=285 >
+<img src='assets/screenshot/ChoiseNotCorrect.png' alt='Main screen' width=285 >
+<img src='assets/screenshot/EndGame.png' alt='End game' width=285 >
