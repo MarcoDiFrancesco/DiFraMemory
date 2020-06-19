@@ -11,12 +11,14 @@ Hard way: add the repository to visual studio code and compile the application f
 
 ## Screenshot → Main screen
 
-<div style="text-align:center">
-  <img src='assets/screenshot/MainScreen.png' alt='Main screen' width=400 />
-</div>
+<p align="center">
+  
+</p>
 
-## Screenshots → Hard mode
-
-<img src='assets/screenshot/ChoiseCorrect.png' alt='Main screen' width=285 />
-<img src='assets/screenshot/ChoiseNotCorrect.png' alt='Main screen' width=285 />
-<img src='assets/screenshot/EndGame.png' alt='End game' width=285 />
+## Screenshots
+<p align="center">
+  <img src='assets/screenshot/MainScreen.png' alt='Main screen' width=230 />
+  <img src='assets/screenshot/ChoiseCorrect.png' alt='Main screen' width=230  />
+  <img src='assets/screenshot/ChoiseNotCorrect.png' alt='Main screen' width=230 />
+  <img src='assets/screenshot/EndGame.png' alt='End game' width=230 />
+</p>
