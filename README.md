@@ -14,8 +14,8 @@ Hard way: add the repository to visual studio code and compile the application f
 ## Screenshots
 
 <p align="center">
-  <img src='assets/screenshot/MainScreen.png' alt='Main screen' width=230 />
-  <img src='assets/screenshot/ChoiseCorrect.png' alt='Main screen' width=230  />
-  <img src='assets/screenshot/ChoiseNotCorrect.png' alt='Main screen' width=230 />
-  <img src='assets/screenshot/EndGame.png' alt='End game' width=230 />
+  <img src='assets/screenshot/MainScreen.png' alt='Main screen' width=200 />
+  <img src='assets/screenshot/ChoiseCorrect.png' alt='Main screen' width=200  />
+  <img src='assets/screenshot/ChoiseNotCorrect.png' alt='Main screen' width=200 />
+  <img src='assets/screenshot/EndGame.png' alt='End game' width=200 />
 </p>
